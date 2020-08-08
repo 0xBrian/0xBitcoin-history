@@ -1,2 +1,10 @@
-# 0xBitcoin-history
+# History of [0xBitcoin](https://0xbitcoin.org/)
 A documented history of the 0xBitcoin project
+
+- `2018-02-02` [first commit to 0xbitcoin-miner repo](https://github.com/0xbitcoin/0xbitcoin-miner/commit/b2c4bab0d9a215614c5064ac9a264641e9cdda7f)
+- `2018-02-06` [contract](https://etherscan.io/address/0xb6ed7644c69416d67b522e20bc294a9a9b405b31#code) [deployed to mainnet](https://etherscan.io/tx/0x5cdcd05f9d6e53e4be3c48095d95caa9d71f0c28f2bd5fe0ab4deeb20b75c026)
+- `2018-02-06` [creation of /r/0xbitcoin](https://www.reddit.com/r/0xbitcoin/)
+- `2018-02-07` [announcement/explanation on Medium](https://medium.com/@admazzola/the-case-for-the-mineable-erc20-token-78cbb4c34331)
+- `2018-02-07` [first post on /r/0xbitcoin](https://www.reddit.com/r/0xbitcoin/comments/7vq8sn/the_case_for_the_mineable_erc20_token/)
+- `2018-02-12` [Discord created](https://discord.com/channels/412477591778492427/412477591778492429/412478458976010240)
+- `2018-02-28` [announcement on Bitcoin Talk](https://bitcointalk.org/index.php?topic=3039182.0)
