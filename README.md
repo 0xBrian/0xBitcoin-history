@@ -10,5 +10,6 @@ A documented history of the 0xBitcoin project
 - `2018-02-28` [announcement on Bitcoin Talk](https://bitcointalk.org/index.php?topic=3039182.0)
 - `2018-03-05` [first commit of main statistics page](https://github.com/0x1d00ffff/0xBTC-Stats/commit/0289cdab868330961c697de3dc57d7dd08727a80)
 - `2018-04-11` [first mention of COSMiC Miner](https://discord.com/channels/412477591778492427/412477591778492429/433506888454504449)
+- `2018-05-19` [first commit to nabiki miner](https://github.com/azlehria/nabiki/commit/91e2c3a06ecc8f1de770c76df8469114d3a0e85f)
 - `2019-07-01` [announcement of 0xbtc.info](https://discord.com/channels/412477591778492427/412477591778492429/594936115606323230)
 - `2019-07-06` [announcement of 0xBTCpay](https://discord.com/channels/412477591778492427/414664710210846722/596821468545941504)
