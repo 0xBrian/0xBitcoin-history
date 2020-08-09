@@ -11,6 +11,7 @@ A documented history of the 0xBitcoin project
   - [announcement/explanation on Medium](https://medium.com/@admazzola/the-case-for-the-mineable-erc20-token-78cbb4c34331)
   - [first post on /r/0xbitcoin](https://www.reddit.com/r/0xbitcoin/comments/7vq8sn/the_case_for_the_mineable_erc20_token/)
 - `2018-02-12` [Discord created](https://discord.com/channels/412477591778492427/412477591778492429/412478458976010240)
+- `2018-02-19` [first mining pool](https://discord.com/channels/412477591778492427/414664710210846722/414922914933243905)
 - `2018-02-21` [first claim of GPU miner](https://discord.com/channels/412477591778492427/412477591778492429/415910679523098645)
 - `2018-02-28` [announcement on Bitcoin Talk](https://bitcointalk.org/index.php?topic=3039182.0)
 - `2018-03-05` [first commit of main statistics page](https://github.com/0x1d00ffff/0xBTC-Stats/commit/0289cdab868330961c697de3dc57d7dd08727a80)
