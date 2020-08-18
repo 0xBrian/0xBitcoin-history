@@ -19,6 +19,7 @@ A documented history of the 0xBitcoin project
 - `2018-03-05`
   - [first commit of main statistics page](https://github.com/0x1d00ffff/0xBTC-Stats/commit/0289cdab868330961c697de3dc57d7dd08727a80)
   - [announcement of gpu.pizza](https://discord.com/channels/412477591778492427/412477591778492429/419907481326845962)
+- `2018-03-16` [most recent Discord message from 0xPizza](https://discord.com/channels/412477591778492427/412477591778492429/424022995108102144)
 - `2018-03-20` [first commit of 0xBitcoin whitepaper](https://github.com/0xbitcoin/white-paper/commit/b7c04911108b296cfd3eede715722d504697b77b)
 - `2018-04-11` [first mention of COSMiC Miner](https://discord.com/channels/412477591778492427/412477591778492429/433506888454504449)
 - `2018-05-19` [first commit to nabiki miner](https://github.com/azlehria/nabiki/commit/91e2c3a06ecc8f1de770c76df8469114d3a0e85f)
